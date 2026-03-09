@@ -3,6 +3,7 @@
 A full-stack E-Commerce Order & Inventory Management System built using Spring Boot (Backend) and Frontend Web Technologies.
 
 This system allows Administrators to :
+
 > Manage products
 
 > Track inventory
@@ -18,39 +19,61 @@ This system allows Administrators to :
 
 🛠️ Tech Stack :
 
-   🔹Backend
-       > Java 17
-       > Spring Boot
-       > Spring Data JPA
-       > Hibernate
-       > MySQL
-       > Maven
-   🔹Frontend
-       > HTML
-       > CSS
-       > JavaScript
+🔹Backend
 
-  🔹Tools -Eclipse IDE
-       > Postman (API Testing)
-       > Git & GitHub
+> Java 17
+       
+> Spring Boot
 
-   🏗️ Project Architecture :
-      > Controller Layer
+>  Spring Data JPA
+
+> Hibernate
+
+> MySQL
+
+> Maven
+
+🔹Frontend
+
+> HTML
+
+> CSS
+
+> JavaScript
+
+🔹Tools -Eclipse IDE
+
+> Postman (API Testing)
+
+> Git & GitHub
+
+🏗️ Project Architecture :
+
+> Controller Layer
 
   ↓
-      > Service Layer
+  
+   > Service Layer
+
 
   ↓
-      > Repository Layer (JPA)
+  
+   > Repository Layer (JPA)
+
 
   ↓
+
   
   MySQL Database
 
   The application follows a clean layered architecture to ensure :
-        > Maintainability
-        > Scalability
-        > Separation of concerns
+  
+ > Maintainability
+
+ > Scalability
+
+ > Separation of concerns
+
 
 
 ✨ Features
