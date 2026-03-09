@@ -4,13 +4,20 @@ A full-stack E-Commerce Order & Inventory Management System built using Spring B
 
 This system allows Administrators to :
 > Manage products
+
 > Track inventory
+
 > Process customer orders
+
 > Monitor stock levels
+
 > Maintain order records efficiently
+
 > Designed using RESTful architecture and clean layered structure.
 
+
 🛠️ Tech Stack :
+
    🔹Backend
        > Java 17
        > Spring Boot
